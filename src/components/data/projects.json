@@ -1,0 +1,37 @@
+[
+  
+    {
+      "key": 1,
+      "title": "Book My Book",
+      "imageSrc": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?w=996&t=st=1727767598~exp=1727768198~hmac=256bea4b1f43f2c9258ccdd899ea246ba8b026887d41e7aba7ae87d2fe93b336",
+      "description": "A full-stack book reservation application using Spring Boot, React.js, and MySQL. Users can search, reserve, and manage books.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/mahajan854/BookMyBook"
+    },
+    {
+      "key": 2,
+      "title": "Car Rental System",
+      "imageSrc": "https://img.freepik.com/free-photo/green-car-desert_1340-23250.jpg?t=st=1727767672~exp=1727771272~hmac=4a805647c149cad4ca2e4af99fdcead74a9825df6dcdb4dcbf916e4429014b3a&w=996",
+      "description": "A full-stack car rental platform built with Spring Boot, React.js, and MySQL. It offers car booking, rental management, and secure payment processing.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/mahajan854/CarRentalProject"
+    },
+    {
+      "key": 3,
+      "title": "Amazon Clone",
+      "imageSrc": "https://img.freepik.com/free-photo/shopping-online-shopaholics-e-commerce-e-shopping-concept_53876-120673.jpg?t=st=1727767779~exp=1727771379~hmac=b4a17fff747d004ba037e90f36eb3dfd1ae95c27924f87553357e82d91fb2a5a&w=996",
+      "description": "An e-commerce platform clone of Amazon built with React.js. Features include product browsing, cart functionality, and checkout.",
+      "demo": "https://cloneecomamazon.netlify.app/",
+      "source": "https://github.com/mahajan254/AmazonClone"
+    },
+    {
+      "key": 4,
+      "title": "E-commerce Website",
+      "imageSrc": "https://img.freepik.com/premium-photo/person-typing-laptop-with-background-screen-with-lock-lock-lock_577115-121931.jpg?w=996",
+      "description": "A dynamic e-commerce platform built with HTML, CSS, and JavaScript. Features include product pages and a responsive shopping cart.",
+      "demo": "https://e-commclothes.netlify.app/",
+      "source": "https://github.com/mahajan254/E-commerce"
+    }
+  
+  
+]
